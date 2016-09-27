@@ -12,7 +12,25 @@ For labels at right side: trailinging space to containing margin/vertical spacin
 We will deal with orange line next lec.
 
 ####2 Auto Layout issues
+click the yellow ball ->exclaimation mark->update frames->fix misplacement
 
+
+
+####3 Modify constraints with the Size Inspector
+
+####4 Automatically expand object sizes with constraints
+4 buttons: stack,align,pin,resolve auto layout issues.  
+
+Another way to pin:  
+pin->add constraints  
+
+####6 Pin an object to its nearest neighbor
+Select trailing space to superview. The superview is the view in which another view is contained.  
+
+
+content hugging priority( which objects expand or contract. Which ones get preference.)  
+
+Lower number gives it priority.  
 
 
 ###3 More UI Objects
